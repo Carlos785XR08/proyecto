@@ -20,6 +20,10 @@ function nombreResolucion(ancho,alto) {
      return 'HD';
   }  else {
      return false;
+
+
+
+     
   }
 }
 
